@@ -12,30 +12,7 @@ ADmyBRAND Insights is a modern marketing analytics dashboard built with Next.js 
 - 🔐 SEO-ready and optimized with metadata
 - 📱 Responsive design for all devices
 - ✅ Clean and professional UI
-
-🧩 Project Structure
-dashboard-app-new/
-├── public/
-│ ├── batman-logo.png
-│ └── preview.png
-├── src/
-│ ├── app/
-│ │ ├── layout.tsx
-│ │ └── page.tsx
-│ ├── components/
-│ │ ├── theme-provider.tsx
-│ │ ├── LoadingScreen.tsx
-│ │ ├── SkeletonLoader.tsx
-│ │ └── ui/
-│ └── lib/
-│ └── utils.ts
-├── styles/
-│ └── globals.css
-├── tsconfig.json
-├── tailwind.config.ts
-├── postcss.config.mjs
-└── package.json
-
+ 
 🚦 Getting Started
 1. Clone the Repo
 git clone https://github.com/mdparvez44/ADmyBRAND.git
