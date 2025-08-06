@@ -21,8 +21,8 @@
     ],
     "paths": {
       "@/*": ["./src/*"]
-    },
-    "types": ["node", "@types/react", "@types/react-dom", "@types/three", "@types/stats.js"]
+    }
+    // ✅ Removed "types"
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
